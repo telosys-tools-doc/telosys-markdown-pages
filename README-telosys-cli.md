@@ -1,3 +1,5 @@
+[![Logo][https://raw.githubusercontent.com/telosys-tools-doc/img/master/telosys-cli-banner.PNG]][http://www.telosys.org/cli.html]
+
 # Telosys CLI (Command Line Interface )
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
