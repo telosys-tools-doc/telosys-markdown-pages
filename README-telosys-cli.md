@@ -1,4 +1,4 @@
-[![Logo](https://raw.githubusercontent.com/telosys-tools-doc/img/master/telosys-cli-banner.PNG)](http://www.telosys.org/cli.html)
+[![Logo](https://raw.githubusercontent.com/telosys-tools-doc/img/master/telosys-cli-banner-50.png)](http://www.telosys.org/cli.html)
 
 # Telosys CLI (Command Line Interface )
 
