@@ -1,11 +1,10 @@
 [![Logo](https://raw.githubusercontent.com/telosys-tools-doc/img/master/telosys-cli-banner-50.png)](http://www.telosys.org/cli.html)
+Hey, developers!   Stop writing repetitive code, let Telosys do it for you!
 
 # Telosys CLI (Command Line Interface )
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 [![Twitter](https://img.shields.io/twitter/follow/telosys?label=Follow&style=social)](https://twitter.com/telosys)
-
-Hey, developers!   Stop writing repetitive code, let Telosys do it for you!
 
 Telosys CLI allows to use all the features of the Telosys Core generator with a simple command line tool.
 
