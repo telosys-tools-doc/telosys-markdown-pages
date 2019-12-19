@@ -1,4 +1,5 @@
 [![Logo](https://raw.githubusercontent.com/telosys-tools-doc/img/master/telosys-cli-banner-50.png)](http://www.telosys.org/cli.html)
+
 Hey, developers!   Stop writing repetitive code, let Telosys do it for you!
 
 # Telosys CLI (Command Line Interface )
