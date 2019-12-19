@@ -11,7 +11,7 @@ Telosys CLI allows to use all the features of the Telosys Core generator with a 
 
 ## Navigation
 
-- [Telosys homepage](http://www.telosys.org){:target="_blank"}
+- [Telosys homepage](http://www.telosys.org)
 - [Telosys-CLI homepage](http://www.telosys.org/cli.html)
 - [Forum](https://muut.com/telosystools)
 - [Blog](http://telosys.blogspot.com/)
