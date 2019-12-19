@@ -6,7 +6,6 @@ Hey, developers!   Stop writing repetitive code, let Telosys do it for you!
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 [![Twitter](https://img.shields.io/twitter/follow/telosys?label=Follow&style=social)](https://twitter.com/telosys)
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M21AMJQ)
 
 Telosys CLI allows to use all the features of the Telosys Core generator with a simple command line tool.
 
@@ -34,4 +33,8 @@ Please see [GNU LGPL v3](https://www.gnu.org/licenses/lgpl-3.0.en.html) for more
 
 ## Support the project
 
-Like Telosys? Please consider adding stars or donating to sustain our activities.
+Like Telosys? Please consider supporting the project : 
+- Add GitHub star on this page
+- Buy a coffe : [ko-fi.com/telosys](https://ko-fi.com/telosys)
+- Donate with PayPal : [paypal.me/telosys](https://www.paypal.me/telosys)
+
