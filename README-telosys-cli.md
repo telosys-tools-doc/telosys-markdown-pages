@@ -9,7 +9,7 @@ Hey, developers!   Stop writing repetitive code, let Telosys do it for you!
 
 Telosys CLI allows to use all the features of the Telosys Core generator with a simple command line tool.
 
-## Navigation
+## Links
 
 - [Telosys homepage](http://www.telosys.org)
 - [Telosys-CLI homepage](http://www.telosys.org/cli.html)
@@ -33,7 +33,7 @@ Please see [GNU LGPL v3](https://www.gnu.org/licenses/lgpl-3.0.en.html) for more
 
 ## Support the project
 
-Like Telosys? Please consider supporting the project : 
+:blue_heart: Like Telosys? Please consider supporting the project : 
 - Add GitHub star on this page
 - Buy a coffe : [ko-fi.com/telosys](https://ko-fi.com/telosys)
 - Donate with PayPal : [paypal.me/telosys](https://www.paypal.me/telosys)
