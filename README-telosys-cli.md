@@ -34,7 +34,7 @@ Please see [GNU LGPL v3](https://www.gnu.org/licenses/lgpl-3.0.en.html) for more
 ## Support the project
 
 :blue_heart: Like Telosys? Please consider supporting the project : 
-- Add GitHub star on this page
-- Buy a coffe : [ko-fi.com/telosys](https://ko-fi.com/telosys)
-- Donate with PayPal : [paypal.me/telosys](https://www.paypal.me/telosys)
+- :star: Add GitHub star on this page
+- :coffee: Buy a coffe : [ko-fi.com/telosys](https://ko-fi.com/telosys)
+- :euro: Donate with PayPal : [paypal.me/telosys](https://www.paypal.me/telosys)
 
