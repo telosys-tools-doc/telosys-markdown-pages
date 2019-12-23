@@ -10,10 +10,12 @@ Hey, developers!   Stop writing repetitive code, let Telosys do it for you!
 
 Telosys Eclipse Plugin allows to use all the features of the Telosys generator in Eclipse.
 
+
 ## Links
 
 - [Telosys homepage](http://www.telosys.org)
 - [Telosys Eclipse Plugin homepage](http://www.telosys.org/eclipsePlugin.html)
+- [Eclipse Marketplace](https://marketplace.eclipse.org/content/telosys-tools)
 - [Forum](https://muut.com/telosystools)
 - [Blog](http://telosys.blogspot.com/)
 
