@@ -1,4 +1,4 @@
-[![Logo](https://raw.githubusercontent.com/telosys-tools-doc/img/master/telosys-plugin-banner-50.png)](http://www.telosys.org/eclipsePlugin.html)
+[![Logo](https://raw.githubusercontent.com/telosys-tools-doc/img/master/telosys-plugin-banner.png)](http://www.telosys.org/eclipsePlugin.html)
 
 Hey, developers!   Stop writing repetitive code, let Telosys do it for you!
 
